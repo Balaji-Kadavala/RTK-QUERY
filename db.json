@@ -1,3 +1,30 @@
 {
-    "todos":["Go to Goa", "Play Cricket", "Pay Bills"]
+  "todos": [
+    {
+      "title": "Go to Chennai",
+      "id": "XDQlqdOJc0k",
+      "status": "completed"
+    },
+    {
+      "title": "Play Cricket",
+      "id": "Cie09rQ82mU",
+      "status": "completed"
+    },
+    {
+      "title": "Pay Bills",
+      "id": "UItRo_AA2so",
+      "status": "not completed"
+    },
+    {
+      "title": "Go out for breath",
+      "id": "rnWsy3NQWi4",
+      "status": "not completed"
+    },
+    {
+      "title": "Listen to music",
+      "status": "completed",
+      "id": "-QBf5AWWFIo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
