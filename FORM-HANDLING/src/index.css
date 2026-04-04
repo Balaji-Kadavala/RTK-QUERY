@@ -1,0 +1,25 @@
+.red-msg{
+    color:red;
+}
+.green-msg{
+    color:green;
+}
+.red-input{
+    border:1px solid red;
+}
+.green-input{
+    border:1px solid green;
+}
+input{
+    padding:5px;
+    border-radius:5px;
+}
+.input-group{
+    position: relative;
+}
+.input-group .icon{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
