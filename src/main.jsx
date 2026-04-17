@@ -9,3 +9,4 @@ createRoot(document.getElementById('root')).render(
   <App />
 </Provider>
 )
+//Run this first  -   npx json-server --watch db.json --port 3000  then run npm start to start the react app. This will allow the app to fetch data from the json server.

@@ -67,6 +67,8 @@ function Todolist() {
                             <button onClick={() => handleDeleteTodo(todo)}>Delete</button>
                         </li>
                     })}
+                    
+                    {console.log(todos)}
                 </ul>
             }
         </div>
